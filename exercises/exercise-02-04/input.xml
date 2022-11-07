@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<inventory-list xmlns="http://www.xtpxlib.nl/ns/xcourse" depcode="IMP">
+<inventory-list depcode="IMP">
   <article code="IMP0001">
     <name>Bolts</name>
     <description>Nuts to secure things with</description>
